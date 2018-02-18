@@ -1,0 +1,16 @@
+body {
+    font-family: 'Karla', sans-serif;
+    padding: 100px 50px;
+}
+
+#about {
+    padding: 10px;
+}
+
+#design {
+    padding: 50px 10px;
+}
+
+#resume {
+    padding: 20px 10px;
+}
