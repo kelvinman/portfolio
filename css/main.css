@@ -3,6 +3,14 @@ body {
     padding: 100px 50px;
 }
 
+h6 {
+    margin: 100px 0 0 0;
+}
+
+.fe {
+    color: black;
+}
+
 #about {
     padding: 10px;
 }
